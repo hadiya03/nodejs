@@ -1,0 +1,22 @@
+body{
+    background-color:blue;
+    font-family: Arial;
+}
+
+.card {
+    width: 400px;
+    background-color: rgb(0, 255, 200);
+    padding: 20px;
+    margin: 100px auto;
+    border-radius: 10px;
+    box-shadow: 0px 0px 10px rgb(128, 128, 128);
+    text-align: center;
+}
+
+h1{
+    color: blue;
+}
+p{
+    font-size: 18px;
+    line-height: 1.6;
+}
